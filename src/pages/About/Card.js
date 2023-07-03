@@ -32,7 +32,9 @@ function Card() {
                 {/* <h2>Team Members</h2> */}
                 <h4>Niraj Tiwari & Harsh vardhan</h4>
                 <p>
-                 Samyak Jain, Pradyumn Bagry, Shaurya, Sahil Ahlawat, Abhay Mishra, Ishaan Chadha, Harsh Mishra, Yashwani, Shruti Arya, Taran Mahaja
+                  Samyak Jain, Pradyumn Bagry, Shaurya, Sahil Ahlawat, Abhay
+                  Mishra, Ishaan Chadha, Harsh Mishra, Yashwani, Shruti Arya,
+                  Taran Mahaja
                 </p>
               </div>
             </div>
@@ -60,10 +62,12 @@ function Card() {
               <div className="after-info">
                 {/* <h2>Team Members</h2> */}
                 <h4 className="about-techhead">
-                 Abhishek Singhal, Himanshi, Vansh Jain
+                  Devansh Khandelwal, Himanshi, Vansh Jain
                 </h4>
                 <p>
-                 Devansh khandelwal, Shweta Ranjan Anand, Mehul Garg, Swati Sharma, Vaishali Aggarwal, Mayank Kumar Choudhary, Ayush Ahlawat, Anvesha Riya, Mohini Chauhan, Arth
+                  Abhishek Singhal, Shweta Ranjan Anand, Mehul Garg, Swati
+                  Sharma, Vaishali Aggarwal, Mayank Kumar Choudhary, Ayush
+                  Ahlawat, Anvesha Riya, Mohini Chauhan, Arth
                 </p>
               </div>
             </div>
@@ -90,7 +94,12 @@ function Card() {
               <div className="after-info">
                 {/* <h2>Team Members</h2> */}
                 <h4>Aditya Gupta, Siddharth Majumdar, Harshal Arya</h4>
-                <p>Niyati Nandita, Ayush Rathore, Jhanvi, Anuj omer, Harsh Jangid, Mayank Anant, Aryan Suman, Vatsal Srivastava, Ayush Sinha, Vaibhav Gupta, Mridul Singla, Aman Muhal, Ojas, Pratyush Singh</p>
+                <p>
+                  Niyati Nandita, Ayush Rathore, Jhanvi, Anuj omer, Harsh
+                  Jangid, Mayank Anant, Aryan Suman, Vatsal Srivastava, Ayush
+                  Sinha, Vaibhav Gupta, Mridul Singla, Aman Muhal, Ojas,
+                  Pratyush Singh
+                </p>
               </div>
             </div>
           </div>
@@ -120,7 +129,11 @@ function Card() {
                   Preetish Bhakne, Anannya Mishra
                 </h4>
                 <p>
-                  Shikhar Sharma, Aditya Gupta, Mishthi Jain, Rahul Prasad, Siddharth, Kartikeya Gupta, Diya Singhal, Rajaryan Mishra, Akshi Singhal, Anvesha Riya, Ishita Harish, Kush Budhiraja, Naman chaturvedi, Nischay mahamana, Rashi Agarwal, Nishil, Rajaryan Mishra, Sakshi
+                  Shikhar Sharma, Aditya Gupta, Mishthi Jain, Rahul Prasad,
+                  Siddharth, Kartikeya Gupta, Diya Singhal, Rajaryan Mishra,
+                  Akshi Singhal, Anvesha Riya, Ishita Harish, Kush Budhiraja,
+                  Naman chaturvedi, Nischay mahamana, Rashi Agarwal, Nishil,
+                  Rajaryan Mishra, Sakshi
                 </p>
               </div>
             </div>
@@ -149,7 +162,15 @@ function Card() {
                 {/* <h2>Team Members</h2> */}
                 <h4>Deepanshu Yadav, Vidur</h4>
                 <p>
-                 Manav Grover, Harshal Arya Prasad, Shivam Kumar,Akshit Kumar,Preetish Bhakne,Vanshika, Ashwarya Agarwal, Jayaditya Agrawal, Prashant Kumar, Ishaan Chadha, Nipun, Naman Chaturvedi, Utkarsh Tripathy, Aryan Sinha, Ravneet Singh, Aditya Singh, Shilpy Choudhary, Gaurav Nagpal, Kush Budhiraja, Divyansh Tanwar, Rashi Agarwal, Tanmay Nagori, Nishil, Naman Chaturvedi, Nischay mahamana, Akshi Singhal, Vatsal Juneja, Shreya Versma, Adhaar Jain, Dhruv Gupta, Priyanshu Pannu. Anurag Juyal
+                  Manav Grover, Harshal Arya Prasad, Shivam Kumar,Akshit
+                  Kumar,Preetish Bhakne,Vanshika, Ashwarya Agarwal, Jayaditya
+                  Agrawal, Prashant Kumar, Ishaan Chadha, Nipun, Naman
+                  Chaturvedi, Utkarsh Tripathy, Aryan Sinha, Ravneet Singh,
+                  Aditya Singh, Shilpy Choudhary, Gaurav Nagpal, Kush Budhiraja,
+                  Divyansh Tanwar, Rashi Agarwal, Tanmay Nagori, Nishil, Naman
+                  Chaturvedi, Nischay mahamana, Akshi Singhal, Vatsal Juneja,
+                  Shreya Versma, Adhaar Jain, Dhruv Gupta, Priyanshu Pannu.
+                  Anurag Juyal
                 </p>
               </div>
             </div>
